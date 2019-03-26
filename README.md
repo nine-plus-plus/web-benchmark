@@ -16,7 +16,7 @@ We provide optimal configurations for web servers and databases. We tested and t
   * Provide optimal configuations
   * The ways to tune your systems.
   
-## Avialable Frameware we have.
+## Avialable Framework we have.
   * Ubuntu 18.04 + Apache server + php + mysql
   * Ubuntu 18.04 + Nginx + php + mysql
   * Windows server 2016 + ISS + C# + MSSQL
